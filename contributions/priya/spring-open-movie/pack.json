@@ -1,0 +1,9 @@
+{
+  "package": "spring-open-movie",
+  "film": "Spring",
+  "preview_candidates": [
+    "https://www.youtube.com/watch?v=cyp7d-jEvNA",
+    "https://www.youtube.com/watch?v=WhWc3b3KhnY",
+    "https://www.youtube.com/watch?v=IiLGnwVNXKU"
+  ]
+}
